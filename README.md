@@ -28,8 +28,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 1. Verify data for any missing values and anomalies, and sort out the same.
 2. Made sure data is consistent and clean with respect to data type, data format and values used.
 3. Created pivot tables according to the questions asked.
-   
-4.Merge all pivot tables in one dashboard and apply slicers to make dynamics.
+4. Merge all pivot tables in one dashboard and apply slicers to make dynamics.
 
 # Project Insight
 1. Women are more likely to buy compared to men (~65%)
